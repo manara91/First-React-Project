@@ -1,0 +1,13 @@
+.most-popular-items {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;   
+}
+
+
+
+@media (max-width: 768px)  {
+    .most-popular-items {
+       padding-bottom: 15px;
+    }
+  }

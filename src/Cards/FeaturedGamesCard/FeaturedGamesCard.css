@@ -1,0 +1,26 @@
+.featured-games-card-item {
+    flex: 1 1 60%;
+   margin: 10px; 
+}
+
+
+.featured-games-card-item img {
+    border-radius: var(--border-raduis-primary);
+    margin-bottom: calc(var(--margin-primary)/2);
+}
+
+.featured-games-card-item-content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.featured-games-card-item-content h4 {
+    font-size: var(--font-size-secondary);
+    font-weight: var(--font-weight-normal);
+    
+}
+.featured-games-card-item-content p {
+    color: gray;
+    font-size: calc(var(--font-size-secondary)/1.2);
+}
+

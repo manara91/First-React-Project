@@ -1,0 +1,34 @@
+.browse {
+  display: flex;
+}
+
+.fearured-games-cards {
+  border-radius: var(--border-raduis-primary);
+}
+
+.how-start-content {
+  display: flex;
+  justify-content: space-between;
+  margin-top: var(--margin-primary);
+}
+.how-start-item {
+  border: 1px solid #27292a;
+  border-radius: var(--border-raduis-primary);
+  padding: 25px;
+  margin: 12px;
+}
+
+.how-start-item img {
+  border-radius: 50%;
+}
+.how-start-item h4 {
+  padding-top: 15px;
+}
+.how-start-item p {
+  color: #666;
+  text-align: justify;
+}
+.how-start-btn {
+  margin: var(--margin-primary);
+  text-align: center;
+}

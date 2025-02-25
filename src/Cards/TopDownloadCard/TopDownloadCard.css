@@ -1,0 +1,50 @@
+.topDownload-card {
+  display: flex;
+  border-bottom: 1px solid var(--color-dark);
+  align-items: center;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+.topDownload-card h4 {
+  font-size: var(--font-size-secondary);
+  font-weight: var(--font-weight-bold);
+}
+
+.topDownload-card p {
+  color: gray;
+}
+
+.circle {
+  background-color: var(--color-dark);
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  position: relative;
+}
+
+.circle a {
+  position: absolute;
+  top: 7px;
+  left: 16px;
+}
+
+.first-col .third-col {
+  flex-grow: 1;
+}
+
+.second-col {
+  flex-grow: 2;
+  padding-left: 12px;
+}
+
+.second-col span {
+  display: inline-block;
+  margin-right: 15px;
+}
+
+.first-col img {
+  max-width: 90px;
+  max-height: 90px;
+  border-radius: var(--border-raduis-primary);
+}
