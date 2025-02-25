@@ -1,0 +1,10 @@
+.view-all-games {
+    text-align: center;
+    margin: 10px;
+    padding-top: 25px;
+  }
+  .view-all-games a {
+    font-size: var(--font-size-secondary);
+    font-weight: var(--font-weight-normal);
+    color: var(--color-primary);
+  }

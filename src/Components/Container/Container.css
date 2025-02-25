@@ -1,0 +1,17 @@
+.main-container {
+    padding: var(--padding-primary);
+    background-color: var(--color-dark);
+    border-radius: var(--border-raduis-primary);
+    color: var(--color-light)
+}
+
+
+
+  @media (max-width: 768px) {
+    .main-container {
+        padding: 10px;
+        background-color: var(--color-darkest);
+       
+     }
+ 
+  }

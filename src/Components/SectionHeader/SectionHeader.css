@@ -1,0 +1,15 @@
+.section-header h4 {
+    font-size: calc(var(--font-size-primary)*1.5);
+    color: #fff;
+    font-weight: var(--font-weight-bold);
+    font-style: normal;
+}
+
+
+
+@media (max-width: 768px) {
+  .section-header h4 {
+    font-size: var(--font-size-primary);
+    text-align: center;
+  }
+}

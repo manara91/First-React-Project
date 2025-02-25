@@ -1,0 +1,24 @@
+.live-stream-item {
+  padding: 10px;
+}
+
+.game-img , .player-img {
+    border-radius: var( --border-raduis-primary);
+}
+
+.live-stream-content {
+    display: flex;
+    margin-top: 20px
+}
+
+.player-name {
+    color: var(--color-primary);
+    padding-left: 15px;
+    
+}
+
+.discription {
+    color: #FFF;
+    font-size: var(--font-size-primary);
+    padding-left: 15px;
+}

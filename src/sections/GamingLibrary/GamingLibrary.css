@@ -1,0 +1,10 @@
+.gaming-library-cards {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.pop-btn {
+  margin-top: -12px;
+  display: flex;
+  justify-content: center;
+}
