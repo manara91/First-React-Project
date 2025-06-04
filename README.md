@@ -1,6 +1,8 @@
 # First-React-Project
 
-To run the project :
+In this project, I rebuilt a Bootstrap template as a React application.
+
+To run it :
 
 from the Terminal:
 
