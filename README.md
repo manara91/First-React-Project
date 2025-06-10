@@ -1,4 +1,4 @@
-# First-React-Project
+# React-Project
 
 In this project, I rebuilt a Bootstrap template as a React application.
 
