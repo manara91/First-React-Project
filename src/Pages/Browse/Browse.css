@@ -1,10 +1,5 @@
-.browse {
-  display: flex;
-}
 
-.fearured-games-cards {
-  border-radius: var(--border-raduis-primary);
-}
+
 
 .how-start-content {
   display: flex;

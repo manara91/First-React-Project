@@ -17,8 +17,8 @@
     
 }
 
-.discription {
+.description {
     color: #FFF;
-    font-size: var(--font-size-primary);
+    font-size: calc(var(--font-size-primary) /2);
     padding-left: 15px;
 }

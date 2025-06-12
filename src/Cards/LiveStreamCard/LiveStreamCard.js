@@ -20,7 +20,7 @@ const LiveStreamCard = (props) => {
                 </span>
                 {props.playerName}
               </h4>
-              <p className="discription">{props.dis}</p>
+              <p className="description">{props.dis}</p>
             </div>
           </div>
         </div>

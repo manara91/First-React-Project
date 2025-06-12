@@ -15,9 +15,13 @@ const Browse = () => {
   return (
     <div>
       <div className="row browse">
-        <div className="col-lg-8 fearured-games-cards">
+
+        
+        <div className="col-lg-8 ">
           <FeaturedGames />
         </div>
+
+
         <div className="col-lg-4">
           <TopDownload />
         </div>

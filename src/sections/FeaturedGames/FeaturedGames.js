@@ -23,7 +23,7 @@ const FeaturedGames = () => {
       <SectionWrapper>
         <SectionHeader> Featured Games </SectionHeader>
 
-        <div className="featured-Games-items">{featuredGamescards}</div>
+        <div className="featured-games-items">{featuredGamescards}</div>
       </SectionWrapper>
     </>
   );
